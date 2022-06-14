@@ -1,4 +1,11 @@
 # form-automation
 
-I could not automate the filling of the country section for some reason. I spent hours but I could not find a solution.
-So i have commented out the parts of the code that is to be run after all the batches are filled, since they cannot be run without filling the country section
+A form automation project that I made for an assignment. This is my first time using the selenium module.
+The code does the following things:
+1. Fills initial form
+2. Creates new batches and fills them up too
+3. Presses continue to go to the next page
+4. Fills in personal details and payment details
+5. Presses next twice and waits for the payment page to load up
+6. Fills in all the credit card details required
+
