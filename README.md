@@ -9,3 +9,4 @@ The code does the following things:
 5. Presses next twice and waits for the payment page to load up
 6. Fills in all the credit card details required
 
+All the form details are also automatically filled by reading through a .csv file, row wise.
